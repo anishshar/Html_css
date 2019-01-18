@@ -1,0 +1,29 @@
+.content {
+    
+    border-style: double;
+    border-color: blue;
+    border-bottom-width: 5px; 
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: dimgrey
+}
+body{
+    text-align: center;
+    background-color: darkseagreen;
+    margin-top: 250px;
+}
+label{
+    text-indent: 50px;
+}
+input{
+  margin: 8px 0;
+  cursor: pointer;
+}
+#email
+{
+    margin-left:125px;
+}
+#password
+{
+    margin-left:103px;
+}
