@@ -1,0 +1,33 @@
+body{
+    width:100%;
+}
+li{
+    display: inline;
+    padding:5px;
+    
+}
+ul{
+    width: 500px;
+}
+a {
+    text-decoration: none;
+}
+a:hover{
+    background-color: aqua;
+}
+a:focus{
+    background-color: aqua;
+}
+.card
+{
+    
+border-style: hidden;
+background-color: cornsilk;
+width: 78%;
+margin-left: 1%;
+
+}
+.section1
+{
+    width: 70%;
+}
