@@ -1,0 +1,38 @@
+.content {
+    
+    border-style: double;
+    border-color: blue;
+    border-bottom-width: 5px; 
+    border-top-width: 5px; 
+    margin-left: 350px;
+    margin-right: 300px;
+    text-align: left;
+}
+
+body{
+    text-align: center;
+    background-color: white;
+    
+}
+label{
+    width: 20px;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+    display: inline-block;
+}
+input{
+  
+  cursor: pointer;
+  align-self: auto;
+}
+.input1{
+  
+    width: 200px;
+    margin-left: 200px;
+  }
+.input2
+{
+    margin-left:200px
+}
+  
